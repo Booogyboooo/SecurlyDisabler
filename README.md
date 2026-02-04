@@ -13,5 +13,7 @@ You need access to Dev Tools (ctrl + shift + i)
 ## Info
 This script does not remove securly or fully disable it. It only stops securly from blocking websites. You need to do this every time you log into the chromebook.
 
+If you need help start a discussion and I will try to respond
+
 ## Todo
 Add images
